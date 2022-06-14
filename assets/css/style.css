@@ -1,0 +1,116 @@
+/*body*/
+
+body{
+    margin: 0;
+    border: 0;
+    background-color: black;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+}
+
+/*header*/
+
+header h1 {
+    font-size: 50px;
+    text-align: center;
+    margin: 0%;
+    padding: 0%;
+    font-weight: 500;
+}
+
+header img {
+
+    width: 100%;
+}
+
+/*Descripción Iguana*/
+
+.description {
+font-size: 16px;
+width:80%;
+margin: 0;
+padding: 100px;
+text-align: center;
+}
+
+.text{
+    width: 50%;
+    text-align: justify;
+    display: inline-block;
+    vertical-align: middle;
+    padding-right: 5%;
+    
+}
+
+.img{
+    width: 40%;
+    display: inline-block;
+    vertical-align: middle;
+    }
+
+ .img img{
+     width: 399px;;
+     height: 237px;
+ }
+
+ /*Características Iguana*/
+
+ .features{
+     text-align:center;
+     margin: 0%;
+     border: solid 1px #333;
+     padding: 1em;
+     color: white;
+     background-color: #1E1A13;
+     font-size: 24px;
+ }
+
+ .features i{
+     display: block;
+     padding: 0.5em;
+}
+
+.feature {
+    width: 30%;
+    padding: 1%;
+    display: inline-block;
+}
+
+.features h2{
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+}
+
+/*Galería Iguanas*/
+
+.gallery {
+    margin: 0 auto;
+    padding: 5%;
+    text-align: center;
+}
+
+.photo{
+    width: 30%;
+    padding: 1%;
+    display: inline-block;
+}
+
+.photo img {
+    width: 316px;
+    height: 202px;
+}
+
+footer{
+    height: 102px;
+    background-color: #1E1A13;
+    opacity: 0.94;
+}
+
+footer p{
+    text-align: center;
+    margin: 0;
+    padding-top: 40px;
+    font-size: 20px;
+    font-family: 'Raleway', sans-serif;
+}
